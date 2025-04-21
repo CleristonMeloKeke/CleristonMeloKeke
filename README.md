@@ -19,7 +19,7 @@ Knowledge in:
 <br><br>
 <b>## Connect with me</b> :blush:
 <br><br>
-<a href="https://facebook.com/cleristonmelo" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="face-logo" /></a>
+<a href="https://facebook.com/cleristonmelo" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="face-logo" /></a>
 <a href="https://instagram.com/cleristonmelo" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-logo" /></a>
 <a href="https://x.com/cleristonmelo" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="x-logo" /></a>
 <br><br><br>
